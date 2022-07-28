@@ -1,0 +1,7 @@
+let item1 = prompt("Shopping item 1:")
+let item2 = prompt("Shopping item 2:")
+let item3 = prompt("Shopping item 3:")
+console.log("My Shopping List:")
+console.log(item1)
+console.log(item2)
+console.log(item3)
